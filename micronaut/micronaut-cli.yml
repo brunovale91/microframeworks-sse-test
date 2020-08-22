@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.swarmbit
+testFramework: junit
+sourceLanguage: kotlin
+buildTool: gradle
+features: [annotation-api, app-name, docker, file-watch, gradle, http-client, junit, kafka, kotlin, kotlin-application, logback, netty-server, readme, shade, yaml]
